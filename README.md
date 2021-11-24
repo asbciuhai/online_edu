@@ -6,19 +6,17 @@
 
 ## 系统架构
 
-![image-20211124230932144](C:\Users\95189\AppData\Roaming\Typora\typora-user-images\image-20211124230932144.png)
+![image-20211124230932144](https://github.com/XU-JIANLIN/online_edu/blob/main/image/image-20211124230932144.png)
 
 ## 系统流程图
 
-![image-20211124231056391](C:\Users\95189\AppData\Roaming\Typora\typora-user-images\image-20211124231056391.png)
-
+![image-20211124231056391](https://github.com/XU-JIANLIN/online_edu/blob/main/image/image-20211124231056391.png)
 ## 支付模块
 
-![image-20211124231204971](C:\Users\95189\AppData\Roaming\Typora\typora-user-images\image-20211124231204971.png)
-
+![image-20211124231204971](https://github.com/XU-JIANLIN/online_edu/blob/main/image/image-20211124231204971.png)
 ## 单点登录模块
 
-![image-20211124231226746](C:\Users\95189\AppData\Roaming\Typora\typora-user-images\image-20211124231226746.png)
+![image-20211124231226746](https://github.com/XU-JIANLIN/online_edu/blob/main/image/image-20211124231226746.png)
 
 
 
@@ -47,7 +45,7 @@
   - online_edu_vodservice     ——视频点播模块： # TODO: 需修改阿里云视频点播账号
 
 - 先启动打开redis
-- 项目启动顺序![image-20211124234656746](C:\Users\95189\AppData\Roaming\Typora\typora-user-images\image-20211124234656746.png)
+- 项目启动顺序![image-20211124234656746](https://github.com/XU-JIANLIN/online_edu/blob/main/image/image-20211124234656746.png)
 
 ​	账号：数据库表 edu_member
 
