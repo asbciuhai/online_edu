@@ -29,11 +29,11 @@ public class FileUploadController {
 
     // Endpoint以杭州为例，其它Region请按实际情况填写。
     private final  String ENDPOINT = "oss-cn-shenzhen.aliyuncs.com";
-    // 云账号AccessKey有所有API访问权限，建议遵循阿里云安全最佳实践，创建并使用RAM子账号进行API访问或日常运维，请登录 https://ram.console.aliyun.com 创建。
-    private final String ACCESSKEYID = "LTAI4Fnupk1mfREe1FCV16xU";
-    private final String ACCESSKEYSECRET = "m0ebkS6hiZOWf9gFAcqa5xBjhc5mDZ";
+    // TODO:云账号AccessKey有所有API访问权限，建议遵循阿里云安全最佳实践，创建并使用RAM子账号进行API访问或日常运维，请登录 https://ram.console.aliyun.com 创建。
+    private final String ACCESSKEYID = "请输入你的ACCESSKEYID";
+    private final String ACCESSKEYSECRET = "请输入你的ACCESSKEYSECRET";
 
-    private final String BUCKETNAME = "gdpuxjl-edu";
+    private final String BUCKETNAME = "请输入你的BUCKETNAME";
 
     @ApiOperation(value = "上传文件")
     @PostMapping("fileupload")
