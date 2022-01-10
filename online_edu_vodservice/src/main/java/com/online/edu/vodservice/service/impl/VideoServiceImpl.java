@@ -26,9 +26,9 @@ import java.util.List;
 @Slf4j
 public class VideoServiceImpl implements VideoService {
 
-    private final String ACCESS_KEY_ID = "LTAI4Fnupk1mfREe1FCV16xU";
+    private final String ACCESS_KEY_ID = "*";
 
-    private final String ACCESS_KEY_SECRET = "m0ebkS6hiZOWf9gFAcqa5xBjhc5mDZ";
+    private final String ACCESS_KEY_SECRET = "*";
 
     @Override
     public String uploadVideo(MultipartFile file) {
